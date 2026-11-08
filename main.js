@@ -1,4 +1,4 @@
-/* count-by-msword-obsidian 1.2.3. No runtime dependencies other than Obsidian/Node.
+/* count-by-msword-obsidian 1.2.4. No runtime dependencies other than Obsidian/Node.
  * Markdown conversion revision is part of every cache key. DOCX bytes are shared
  * by count and export; Word alone supplies the final word count.
  */
